@@ -46,6 +46,10 @@ http://your-bucket-name.s3-website-region.amazonaws.com
 
 ![Access the Website](OBJECT-URL.jpg) 
 
+# Website Link
+```
+https://digitallearningbucket.s3.eu-north-1.amazonaws.com/index.html
+```
 ### Access Control Lists (ACLs)
 ACLs are a set of rules that determine who can access your S3 resources. In this project, ACLs were used to manage public access to the website.
 
