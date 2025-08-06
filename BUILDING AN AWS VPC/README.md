@@ -34,7 +34,7 @@ In this project, I used Amazon VPC to:
    - **Description**: Subnets are regional resources with associated IP address ranges. My account already had subnets for every Availability Zone (AZ) in my region.
    - **Setup**: I created subnets named `Public Subnet 1`, `Public Subnet 2`, `Private Subnet 1` & `Private Subnet 2`. For a subnet to be considered public, it must have a route in its route table directing traffic destined for the internet to an internet gateway.
 
-![Subnets](Images/creatingsubnet.png) 
+![Subnets](Images/creatingsubnet.jpg) 
 
 #### 3. **Internet Gateway**
    - **Description**: Internet gateways are AWS-managed resources that enable instances within a VPC to connect to the internet.
