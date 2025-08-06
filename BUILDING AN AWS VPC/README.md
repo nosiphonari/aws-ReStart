@@ -40,7 +40,7 @@ In this project, I used Amazon VPC to:
    - **Description**: Internet gateways are AWS-managed resources that enable instances within a VPC to connect to the internet.
    - **Setup**: Attaching an internet gateway to my VPC enabled internet connectivity for instances with public IP addresses.
 
-## Challenges and Learnings
+## Challenges and key takeaways
 
 ### Unexpected Aspects
 
